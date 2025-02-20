@@ -5,8 +5,6 @@ A Data enthusiast with over 3.5 years of experience in the field of Data Enginee
 
 With a strong curiosity for emerging technologies and a dedication to continuous learning, I strive to contribute to organizations by supporting data-driven decision-making and fostering impactful outcomes in an ever-evolving landscape. Passionate about using insights from data to solve complex business problems.**.
 
-
-- 🎯 Experienced in **Snowflake, Python, ETL, and LLM-based AI applications**  
 - 💡 Passionate about **Data Engineering, Analytics, Generative AI and Data-Driven Insights**  
 
 ---
@@ -20,11 +18,11 @@ With a strong curiosity for emerging technologies and a dedication to continuous
 ![StreamSets](https://img.shields.io/badge/StreamSets-2196F3?style=for-the-badge&logo=streamsets&logoColor=white)
 
 - **Programming:** Python, SQL, JavaScript, Shell Scripting  
-- **Databases & Data Warehousing:** **Snowflake, SQL Server, Oracle, MongoDB, MySQL**  
-- **ETL & Data Integration:** **DBT (Data Build Tool), StreamSets**  
-- **Generative AI:** **GPT-3.5, Command R, Llama 2, Vector Databases (Faiss, Chroma DB)**  
-- **Cloud & DevOps:** **AWS (EC2, S3, Lambda), GitLab CI/CD, Azure DevOps**  
-- **Other Tools:** **Power BI, Tableau, Spark, Airflow, Kafka, Microsoft Excel, Visio**  
+- **Databases & Data Warehousing:** Snowflake, SQL Server, Oracle, MongoDB, MySQL
+- **ETL & Data Integration:** DBT (Data Build Tool), StreamSets
+- **Generative AI:** GPT-3.5, Command R, Llama 2, Vector Databases (Faiss, Chroma DB)
+- **Cloud & DevOps:** AWS (EC2, S3, Lambda), GitLab CI/CD, Azure DevOps
+- **Other Tools:** Power BI, Tableau, Spark, Airflow, Kafka, Microsoft Excel, Visio
 
 ---
 
