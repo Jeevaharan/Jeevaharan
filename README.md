@@ -3,7 +3,7 @@
 ## 🚀 About Me
 A Data enthusiast with over 3.5 years of experience in the field of **Data Engineering, Analytics and Generative AI**. Skilled in designing, implementing, and maintaining data pipelines and cloud-based data warehousing. Currently pursuing Master’s in Data Science at the University at Buffalo (SUNY), with a focus on Statistical Data Mining, Machine Learning, and Database Management Systems. 
 
-With a strong curiosity for emerging technologies and a dedication to continuous learning, I strive to contribute to organizations by supporting data-driven decision-making and fostering impactful outcomes in an ever-evolving landscape.**.
+With a strong curiosity for emerging technologies and a dedication to continuous learning, I strive to contribute to organizations by supporting data-driven decision-making and fostering impactful outcomes in an ever-evolving landscape.
 
 - 💡 Passionate about **using insights from data to solve complex business problems**  
 
