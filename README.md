@@ -20,7 +20,7 @@ With a strong curiosity for emerging technologies and a dedication to continuous
 - **Programming:** Python, SQL, JavaScript, Shell Scripting  
 - **Databases & Data Warehousing:** Snowflake, SQL Server, Oracle, MongoDB, MySQL
 - **ETL & Data Integration:** DBT (Data Build Tool), StreamSets
-- **Generative AI:** GPT-3.5, Command R, Llama 2, Vector Databases (Faiss, Chroma DB)
+- **Generative AI:** GPT-3.5, Command R, Llama 2, Vector Databases (Faiss, Chroma DB), Prompt Engineering, Chatbot Development, LangChain, Streamlit
 - **Cloud & DevOps:** AWS (EC2, S3, Lambda), GitLab CI/CD, Azure DevOps
 - **Other Tools:** Power BI, Tableau, Spark, Airflow, Kafka, Microsoft Excel, Visio
 
