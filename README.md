@@ -5,7 +5,7 @@ A Data enthusiast with over 3.5 years of experience in the field of **Data Engin
 
 With a strong curiosity for emerging technologies and a dedication to continuous learning, I strive to contribute to organizations by supporting data-driven decision-making and fostering impactful outcomes in an ever-evolving landscape.
 
-- 💡 Passionate about **using insights from data to solve complex business problems**  
+💡 Passionate about **using insights from data to solve complex business problems**  
 
 ---
 
