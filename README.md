@@ -1,29 +1,13 @@
 # 👋 Hi, I'm Jeevaharan M J!
 
 ## 🚀 About Me
-I'm a **Data Engineer & AI Enthusiast** passionate about designing scalable data solutions, optimizing ETL pipelines, and working with **Cloud, Generative AI, and Large Language Models (LLMs)**. Currently pursuing my **Master's in Data Science at the University at Buffalo**.
+A Data enthusiast with over 3.5 years of experience in the field of Data Engineering, Analytics and Generative AI. Skilled in designing, implementing, and maintaining data pipelines and cloud-based data warehousing. Currently pursuing Master’s in Data Science at the University at Buffalo (SUNY), with a focus on Statistical Data Mining, Machine Learning, and Database Management Systems. 
+
+With a strong curiosity for emerging technologies and a dedication to continuous learning, I strive to contribute to organizations by supporting data-driven decision-making and fostering impactful outcomes in an ever-evolving landscape. Passionate about using insights from data to solve complex business problems.**.
 
 
 - 🎯 Experienced in **Snowflake, Python, ETL, and LLM-based AI applications**  
-- 💡 Passionate about **Data Engineering, Generative AI and Data-Driven Insights**  
-
----
-
-## 💼 Experience
-### **Associate (Data Engineer) | Cognizant Technology Solutions** (June 2023 – July 2024)
-- Led a proof of concept for a banking client, developing an **AI-driven chatbot** using **GPT-3.5 & RAG (Retrieval-Augmented Generation)**.
-- Engineered **ETL workflows with DBT in Snowflake**, reducing data processing time by 50%.
-- Built real-time **data decision-making** solutions for business operations.
-
-### **Programmer Analyst (Data Engineer) | Cognizant Technology Solutions** (June 2022 – June 2023)
-- Developed a **Power BI dashboard** to monitor **1,000+ jobs** for mining operations.
-- Implemented **250+ column-level dynamic masking** policies in **Snowflake**.
-- Designed scalable ETL pipelines with **StreamSets**, automating ingestion from **Oracle, SQL Server, APIs, and Excel**.
-
-### **Programmer Analyst Trainee (Data Engineer) | Cognizant Technology Solutions** (June 2021 – June 2022)
-- Optimized real-time **SQL Server to Snowflake migration** with **StreamSets CDC**, reducing latency by **70%**.
-- Developed **data lineage documentation** for improved data governance.
-- Automated ETL efficiency using **JavaScript stored procedures** in Snowflake.
+- 💡 Passionate about **Data Engineering, Analytics, Generative AI and Data-Driven Insights**  
 
 ---
 
@@ -46,8 +30,8 @@ I'm a **Data Engineer & AI Enthusiast** passionate about designing scalable data
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeevaharanMJ&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeevaharanMJ&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeevaharan&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeevaharan&theme=radical" width="400"/>
 </p>
 
 ---
@@ -59,8 +43,7 @@ I'm a **Data Engineer & AI Enthusiast** passionate about designing scalable data
 ---
 
 ## 🌎 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeevaharanmj/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/JeevaharanMJ)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23333?style=for-the-badge)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeevaharan-m-j-11a5b51a4/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23333?style=for-the-badge)](https://jeevaharan.github.io/Portfolio_website/)
 
 ---
