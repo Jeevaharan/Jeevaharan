@@ -35,7 +35,7 @@ Docker | Kubernetes | Terraform | Git | GitLab CI/CD | Azure DevOps
 
 ## Connect With Me  
 
-LinkedIn: https://www.linkedin.com/in/jeevaharan/
+LinkedIn: https://www.linkedin.com/in/jeevaharan/  
 Portfolio: https://jeevaharan.github.io/Portfolio_website/  
 
 
