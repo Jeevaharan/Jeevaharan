@@ -24,7 +24,7 @@ Apache Spark | Hadoop | StreamSets | Kafka | Airflow | Hive | DBT (Data Build To
 AWS | GCP | Azure | Snowflake | Databricks  
 
 **Generative AI & Machine Learning:**  
-LangChain | Vector Databases (FAISS, ChromaDB) | Prompt Engineering | Large Language Models (LLMs) | Predictive Analytics & Time Series Forecasting  
+LangChain | Vector Databases | Prompt Engineering | Large Language Models (LLMs) | Predictive Analytics & Time Series Forecasting  
 
 **Databases:**  
 PostgreSQL | MongoDB | Oracle | MySQL | SQL Server  
